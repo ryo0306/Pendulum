@@ -1,0 +1,34 @@
+﻿2016/02/18 17:03:39 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\vantan\Desktop\振り子運動サンプル\GameTemplate.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /MP /Od /D WIN32 /D _DEBUG /D _WINDOWS /D DEBUG /D _ITERATOR_DEBUG_LEVEL=0 /D "PRODUCT_NAME=振り子運動サンプル" /GF /Gm- /EHsc /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt src\main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\vantan\Desktop\振り子運動サンプル\振り子運動サンプル.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\vantan\Desktop\振り子運動サンプル\振り子運動サンプル.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\vantan\Desktop\振り子運動サンプル\振り子運動サンプル.lib" /MACHINE:X64 x64\Debug\Pendulum.obj
+         x64\Debug\appEnv.obj
+         x64\Debug\audio.obj
+         x64\Debug\camera2D.obj
+         x64\Debug\fileUtil.obj
+         x64\Debug\font.obj
+         x64\Debug\gamePad.obj
+         x64\Debug\glExt.obj
+         x64\Debug\glfwWindow.obj
+         x64\Debug\glTexture.obj
+         x64\Debug\graph.obj
+         x64\Debug\matrix.obj
+         x64\Debug\os_osx.obj
+         x64\Debug\os_win.obj
+         x64\Debug\png.obj
+         x64\Debug\random.obj
+         x64\Debug\streaming.obj
+         x64\Debug\streamWav.obj
+         x64\Debug\texture.obj
+         x64\Debug\utils.obj
+         x64\Debug\wav.obj
+         x64\Debug\main.obj
+         GameTemplate.vcxproj -> C:\Users\vantan\Desktop\振り子運動サンプル\振り子運動サンプル.exe
+     1>プロジェクト "C:\Users\vantan\Desktop\振り子運動サンプル\GameTemplate.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.45
